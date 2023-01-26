@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&&customColorList=3&height=200&section=header&text=Hi!%20I'm%20minzyee:)&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&&customColorList=3&height=200&section=header&text=Hi!%20I'm%20minzyee%20:)&fontSize=70" />
 
 
 <!--
@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minzyee&show_icons=true&theme=nightowl) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minzyee&show_icons=true&theme=vue)
