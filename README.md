@@ -1,4 +1,5 @@
-### Hi there 👋👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi!%20I'm%20minzyee:)&fontSize=80" />
+
 
 <!--
 **minzyee/minzyee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +17,4 @@ Here are some ideas to get you started:
 -->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minzyee&show_icons=true&theme=nightowl)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minzyee&show_icons=true&theme=nightowl) -->
