@@ -1,10 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&&customColorList=3&height=200&section=header&text=Hi!%20I'm%20minzyee%20:)&fontSize=70" />
 
-<section>
-  <h3 style='color: #ff0a00'>💁🏻‍♀️ My Info</h3>
-  <img src="https://img.shields.io/badge/vvzmsqufvv@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=fff">  
-  <img src="https://img.shields.io/badge/Tistory-000?style=for-the-badge&logo=Tistory&logoColor=fff">
-</section>
+<h3 style='color: #ff0a00'>💁🏻‍♀️ My Info</h3>
+
+[<img src="https://img.shields.io/badge/vvzmsqufvv@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=fff">](vvzmsqufvv@gmail.com)
+[<img src="https://img.shields.io/badge/Tistory-000?style=for-the-badge&logo=Tistory&logoColor=fff">](https://myroomgandalf.tistory.com/)
 
 <br>
 
