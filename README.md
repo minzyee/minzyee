@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&&customColorList=3&height=200&section=header&text=Hi!%20I'm%20minzyee%20:)&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&&customColorList=3&height=270&section=header&text=Hi!%20I'm%20minzyee%20:)&fontSize=72&animation=fadeIn" />
+
 
 <section>
   <h3 style='color: #ff0a00'>💁🏻‍♀️ My Info</h3>
