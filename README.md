@@ -6,9 +6,6 @@
   <a href="mailto:vvzmsqufvv@gmail.com/">
     <img src="https://img.shields.io/badge/vvzmsqufvv@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:vvzmsqufvv@gmail.com/"/>
   </a>
-  <a href="https://ilovemyroom.tistory.com/">
-    <img src="https://img.shields.io/badge/My tech blog-000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://ilovemyroom.tistory.com/"/>
-  </a>
 </section>
 
 
@@ -17,15 +14,24 @@
 <section>
   <h3>📚 Skills</h3>
   <div>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=fff">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=fff">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=000">
+    <img src="https://img.shields.io/badge/HTML5-E34F26" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6" alt="CSS3" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/TypeScript-3178c6" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/React-61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/Next.js-000000" alt="Next.js" />
+  </div>
+
+  <div>
+    <img src="https://img.shields.io/badge/React%20Query-000000" alt="ReactQuery" />
+    <img src="https://img.shields.io/badge/Zustand-000000" alt="Zustand" />
+    <img src="https://img.shields.io/badge/Recoil-000000" alt="Recoil" />
   </div>
   
   <div>
-    <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=fff">
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=fff">
+    <img src="https://img.shields.io/badge/TailwindCSS-06B6D4" alt="TailwindCSS-06B6D4" />
+    <img src="https://img.shields.io/badge/styled component-BF4F74" alt="styled component" />
+    <img src="https://img.shields.io/badge/HeroUI-000000" alt="HeroUI" />
   </div>
 </section>
 
