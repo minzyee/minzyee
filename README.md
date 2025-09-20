@@ -3,8 +3,8 @@
 
 <section>
   <h3 style='color: #ff0a00'>💁🏻‍♀️ My Info</h3>
-  <a href="mailto:vvzmsqufvv@gmail.com/">
-    <img src="https://img.shields.io/badge/vvzmsqufvv@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:vvzmsqufvv@gmail.com/"/>
+  <a href="mailto:miracleofming@gmail.com/">
+    <img src="https://img.shields.io/badge/miracleofming@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:miracleofming@gmail.com/"/>
   </a>
 </section>
 
